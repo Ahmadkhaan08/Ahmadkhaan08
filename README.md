@@ -55,7 +55,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,supabase,appwrite,firebase,git,github,c,tailwindcss,vercel,netlify,html,css,sass,bootstrap,postman,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,react,next,nodejs,express,mongodb,supabase,appwrite,firebase,git,github,docker,aws,tailwindcss,vercel,netlify,html,css,sass,bootstrap,postman,vscode,mysql" />
   <p align="center">
   <img src="https://img.shields.io/badge/Bolt.new-FF6B6B?style=for-the-badge&logo=bolt&logoColor=white" />  
   <img src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />  
